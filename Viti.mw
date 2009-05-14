@@ -4,8 +4,8 @@
 | style="background:#efefef;" align="center" colspan=2 |
 {| border="0" cellpadding="2" cellspacing="0"
 |-
-| align="center" width="140px" | [[Image:Flag of Fiji.svg|125px]]
-| align="center" width="140px" | [[Image:Coat of arms of Fiji.png|125px]]
+| align="center" width="140px" | [[File:Flag of Fiji.svg|125px]]
+| align="center" width="140px" | [[File:Coat of arms of Fiji.png|125px]]
 |-
 | align="center" width="140px" | 
 | align="center" width="140px" | 
@@ -13,12 +13,13 @@
 |-
 | align="center" colspan=2 | <small>''[[National motto]]: Rerevaka na Kalou ka Doka na Tui''</big>
 |-
-| align=center colspan=2 | [[image:LocationFiji.png|300px]]
+| align=center colspan=2 | [[File:LocationFiji.png|300px]]
 |}
 
 '''Matanitu Tu-Vaka-i-koya ko Viti'''
 * [[Suva]]
 [[File:Fiji detail.jpg|thumb|left]]
+
 [[Category:Viti]]
 
 [[af:Fidji]]
@@ -130,6 +131,7 @@
 [[uz:Fiji]]
 [[vi:Fiji]]
 [[vo:Ficiyuäns]]
+[[war:Fiyi]]
 [[wo:Fiiji]]
 [[zh:斐濟]]
 [[zh-min-nan:Fiji]]
