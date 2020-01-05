@@ -1,8 +1,7 @@
-In [[number theory]], a '''multiplicative function''' is an [[arithmetic function]] ''f''(''n'') of a positive [[integer]] ''n'' with the property that ''f''(1) = 1 and whenever
-''a'' and ''b'' are [[coprime]], then
+In [[number theory]], a '''multiplicative function''' is an [[arithmetic function]] ''f''(''n'') of a positive [[integer]] ''n'' with the property that ''f''(1) = 1 and whenever''a'' and ''b'' are [[coprime]], then:
 
-:<math>f(ab) = f(a)f(b).</math>
+<math>f(ab) = f(a)f(b).</math>
 
 An arithmetic function ''f''(''n'') is said to be '''[[completely multiplicative function|completely multiplicative]]''' (or '''totally multiplicative''') if ''f''(1) = 1 and ''f''(''ab'') = ''f''(''a'')''f''(''b'') holds ''for all'' positive integers ''a'' and ''b'', even when they are not coprime.
 
-[[Category:Mutliplication]]
+[[Category:Multiplication]]
