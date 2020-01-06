@@ -1,7 +1,7 @@
-In [[number theory]], a '''multiplicative function''' is an [[arithmetic function]] ''f''(''n'') of a positive [[integer]] ''n'' with the property that ''f''(1) = 1 and whenever''a'' and ''b'' are [[coprime]], then:
+Ena [[naba theory]], na '''multiplicative function''' e [[Artihemetic cakacaka|artihmetic cakacaka]] ''f''(''n'') e dua na [[integer]] vinaka ena kena iyau ''f''(1) = 1 kei whenevera ''b'' kena e [[coprime]], qai:
 
 <math>f(ab) = f(a)f(b).</math>
 
-An arithmetic function ''f''(''n'') is said to be '''[[completely multiplicative function|completely multiplicative]]''' (or '''totally multiplicative''') if ''f''(1) = 1 and ''f''(''ab'') = ''f''(''a'')''f''(''b'') holds ''for all'' positive integers ''a'' and ''b'', even when they are not coprime.
+E dua arithmetic cakacaka ''f''(''n'') e tukuni me [[multiplicative vakaoti]] (se '''sara multiplicative''') kevaka ''f''(1) = 1 and ''f''(''ab'') = ''f''(''a'')''f''(''b'') taura ''vei ira kece'' integer vinaka ''a'' ka ''b'', kevaka sara mada ga e sega ni coprime.
 
 [[Category:Multiplication]]
