@@ -26,21 +26,160 @@
 Standard Fijian is based on the speech of [[:en:Bau_(island)#Language|Bau]], which is an [[:en:East_Fijian_language|East Fijian language]]. A [[:en:Pidgin|pidginized]] form is used by many [[:en:Indo-Fijians|Indo-Fijians]] and [[:en:Chinese_in_Fiji|Chinese]] on the islands, while [[:en:Pidgin_Hindustani|Pidgin Hindustani]] is used by many rural ethnic [[:en:Fijians|Fijians]] and Chinese in areas dominated by Indo-Fijians.
 
 == Phonology ==
+The [[consonant]] [[phoneme]]s of Fijian are as shown in the following table:
 
-==  The [[:en:Consonant|consonant]] [[:en:Phoneme|phonemes]] of Fijian are as shown in the following table:  {| class="wikitable" style="text-align: center;" ! colspan="2" | ![[:en:Labial_consonant|Labial]] ![[:en:Coronal_consonant|Coronal]] ![[:en:Palatal_consonant|Palatal]] ![[:en:Velar_consonant|Velar]] ![[:en:Glottal_consonant|Glottal]] |- ! colspan="2" |[[:en:Nasal_stop|Nasal]] |{{IPA|m}} |{{IPA|n}} | |{{IPA|ŋ}} | |- ! rowspan="2" |[[:en:Plosive_consonant|Plosive]] !<small>voiceless</small> |{{IPA|(p)}} |{{IPA|t}} |{{IPA|(tʃ)}} |{{IPA|k}} |{{IPA|(ʔ)}} |- !<small>[[:en:Prenasalization|prenasalized]]</small> |{{IPA|ᵐb}} |{{IPA|ⁿd}} |{{IPA|(ⁿdʒ)}} |{{IPA|ᵑɡ}} | |- ! rowspan="2" |[[:en:Fricative_consonant|Fricative]] !<small>voiceless</small> |{{IPA|(f)}} |{{IPA|s}} | |{{IPA|(x)}} |{{IPA|(h)}} |- !<small>[[:en:Voice_(phonetics)|voiced]]</small> |{{IPA|β}} |{{IPA|ð}} | | | |- ! rowspan="2" |[[:en:Trill_consonant|Trill]] !<small>plain</small> | |{{IPA|r}} | | | |- !<small>prenasalized</small> | |{{IPA|ᶯɖʳ}} | | | |- ! colspan="2" |[[:en:Approximant_consonant|Approximant]] |{{IPA|w}} |{{IPA|l}} |{{IPA|j}} | | |}  The consonant written {{angle bracket|dr}} has been described as a prenasalized trill {{IPA|[nr]}} or trilled fricative {{IPA|[ndr]}}. However, it is only rarely pronounced with a trilled release; the primary feature distinguishing it from {{angle bracket|d}} is that it is [[:en:Postalveolar|postalveolar]], {{IPA|[ɳɖ]}}, rather than dental/alveolar.<ref>{{SOWL}}<cite id="CITEREFLadefogedMaddieson1996" class="citation book cs1" data-ve-ignore="true">[[Peter Ladefoged|Ladefoged, Peter]]; [[Ian Maddieson|Maddieson, Ian]] (1996). [[The Sounds of the World's Languages|''The Sounds of the World's Languages'']]. Oxford: Blackwell. [[ISBN (identifier)|ISBN]]&nbsp;[[Special:BookSources/978-0-631-19815-4|<bdi>978-0-631-19815-4</bdi>]].</cite><span title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.btitle=The+Sounds+of+the+World%27s+Languages&rft.place=Oxford&rft.pub=Blackwell&rft.date=1996&rft.isbn=978-0-631-19815-4&rft.aulast=Ladefoged&rft.aufirst=Peter&rft.au=Maddieson%2C+Ian&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFijian+language" class="Z3988" data-ve-ignore="true"></span> p 122, 131. The authors use the transcription {{angle bracket|nḍ}}, where the sub-dot is their convention for a postalveolar stop that is not prototypically retroflex.</ref>   The sounds {{IPA|[p]}} and {{IPA|[f]}} occur only in [[:en:Loanword|loanwords]] from other languages. The sounds {{IPA|[x]}} and {{IPA|[h]}} only occur for speakers from certain regions of the country.   The sounds {{IPA|[tʃ]}} and {{IPA|[ⁿdʒ]}} occur as allophones of {{IPA|[t]}} and {{IPA|[ⁿd]}}.   Note the difference in [[:en:Place_of_articulation|place of articulation]] between the voiced-voiceless fricative pairs: [[:en:Bilabial_consonant|bilabial]] {{IPA|[β]}} vs. [[:en:Labiodental_consonant|labiodental]] {{IPA|[f]}}, and [[:en:Dental_consonant|dental]] {{IPA|[ð]}} vs. [[:en:Alveolar_consonant|alveolar]] {{IPA|[s]}}. The [[:en:Vowel|vowel]] phonemes are:  {| class="wikitable" style="text-align: center;" |+[[:en:Monophthong|Monophthongs]] ! rowspan="2" | ! colspan="2" |[[:en:Front_vowel|Front]] ! colspan="2" |[[:en:Central_vowel|Central]] ! colspan="2" |[[:en:Back_vowel|Back]] |- !<small>short</small> !<small>long</small> !<small>short</small> !<small>long</small> !<small>short</small> !<small>long</small> |- ![[:en:Close_vowel|Close]] |{{IPA|i}} |{{IPA|iː}} | | |{{IPA|u}} |{{IPA|uː}} |- ![[:en:Mid_vowel|Mid]] |{{IPA|e}} |{{IPA|eː}} | | |{{IPA|o}} |{{IPA|oː}} |- ![[:en:Open_vowel|Open]] | | |{{IPA|a}} |{{IPA|aː}} | | |}  {| class="wikitable" style="text-align: center;" |+[[:en:Falling_diphthong|Falling diphthongs]] ! rowspan="2" colspan="2" | ! scope="col" colspan="2" |Second component |- ! scope="col" |{{IPA|/i/}} ! scope="col" |{{IPA|/u/}} |- ! scope="row" rowspan="3" |First component ! scope="row" |{{IPA|/e/}} |{{IPA|ei̯}} |{{IPA|eu̯}} |- ! scope="row" |{{IPA|/o/}} |{{IPA|oi̯}} |{{IPA|ou̯}} |- ! scope="row" |{{IPA|/a/}} |{{IPA|ai̯}} |{{IPA|au̯}} |}  In addition, there is the rising diphthong {{IPA|i̯u}}. 
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Coronal consonant|Coronal]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal stop|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+|
+| {{IPA|ŋ}}
+|
+|-
+! rowspan="2" | [[Plosive consonant|Plosive]]
+! <small>voiceless</small>
+| {{IPA|(p)}}
+| {{IPA|t}}
+| {{IPA|(tʃ)}}
+| {{IPA|k}}
+| {{IPA|(ʔ)}}
+|-
+! <small>[[Prenasalization|prenasalized]]</small>
+| {{IPA|ᵐb}}
+| {{IPA|ⁿd}}
+| {{IPA|(ⁿdʒ)}}
+| {{IPA|ᵑɡ}}
+|
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! <small>voiceless</small>
+| {{IPA|(f)}}
+| {{IPA|s}}
+|
+| {{IPA|(x)}}
+| {{IPA|(h)}}
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+| {{IPA|β}}
+| {{IPA|ð}}
+|
+|
+|
+|-
+! rowspan="2" | [[Trill consonant|Trill]]
+! <small>plain</small>
+|
+| {{IPA|r}}
+|
+|
+|
+|-
+! <small>prenasalized</small>
+|
+| {{IPA|ᶯɖʳ}}
+|
+|
+|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+|  {{IPA|w}}
+|  {{IPA|l}} 
+|  {{IPA|j}}
+| 
+| 
+|}
 
-[[:en:Syllable|Syllables]] can consist of a consonant followed by a vowel (CV) or a single vowel (V).<ref>Dixon 1988:15.</ref>
-[[:en:Stress_(linguistics)|Word stress]] is based on [[:en:Mora_(linguistics)|moras]]: a short vowel is one mora, diphthongs and long vowels are two morae. Primary stress is on the penultimate mora of the phonological word. That is, if the last syllable of a word is short, then the penultimate syllable will be stressed, while if the last syllable contains either a long vowel or a diphthong, then it receives primary stress. Stress is not lexical and can shift when suffixes are attached to the [[:en:Root_(linguistics)|root]]. Examples: 
+The consonant written {{angle bracket|dr}} has been described as a prenasalized trill {{IPA|[nr]}} or trilled fricative {{IPA|[ndr]}}. However, it is only rarely pronounced with a trilled release; the primary feature distinguishing it from {{angle bracket|d}} is that it is [[postalveolar]], {{IPA|[ɳɖ]}}, rather than dental/alveolar.<ref>{{SOWL}} p 122, 131. The authors use the transcription {{angle bracket|nḍ}}, where the sub-dot is their convention for a postalveolar stop that is not prototypically retroflex.</ref>
 
-* Stress on the penultimate syllable (final short vowel): ''síga'', "day";
-* Stress on the final syllable (diphthong): ''cauravóu'', "youth" (the stress extends over the whole diphthong).
-* Stress shift: ''cábe'', "kick" → ''cabé-ta'', "kick-TR"<ref>Dixon 1988:17</ref>  ==
+The sounds {{IPA|[p]}} and {{IPA|[f]}} occur only in [[loanword]]s from other languages. The sounds {{IPA|[x]}} and {{IPA|[h]}} only occur for speakers from certain regions of the country.
+
+The sounds {{IPA|[tʃ]}} and {{IPA|[ⁿdʒ]}} occur as allophones of {{IPA|[t]}} and {{IPA|[ⁿd]}}.
+
+Note the difference in [[place of articulation]] between the voiced-voiceless fricative pairs: [[Bilabial consonant|bilabial]] {{IPA|[β]}} vs. [[Labiodental consonant|labiodental]] {{IPA|[f]}}, and [[Dental consonant|dental]] {{IPA|[ð]}} vs. [[Alveolar consonant|alveolar]] {{IPA|[s]}}.
+
+The [[vowel]] phonemes are:
+
+{| class="wikitable" style="text-align: center;"
+|+ [[Monophthong]]s
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+|-
+! [[Close vowel|Close]]
+| {{IPA|i}}
+| {{IPA|iː}}
+| ||
+| {{IPA|u}}
+| {{IPA|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e}}
+| {{IPA|eː}}
+| ||
+| {{IPA|o}}
+| {{IPA|oː}}
+|-
+! [[Open vowel|Open]]
+| ||
+|  {{IPA|a}}
+| {{IPA|aː}}
+| ||
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ [[Falling diphthong]]s
+! colspan="2" rowspan="2" |
+! colspan="2" scope="col" | Second component
+|-
+! scope="col" | {{IPA|/i/}}
+! scope="col" | {{IPA|/u/}}
+|-
+! rowspan="3" scope="row" | First component
+! scope="row" | {{IPA|/e/}}
+| {{IPA|ei̯}}
+| {{IPA|eu̯}}
+|-
+! scope="row" | {{IPA|/o/}}
+| {{IPA|oi̯}}
+| {{IPA|ou̯}}
+|-
+! scope="row" | {{IPA|/a/}}
+| {{IPA|ai̯}}
+| {{IPA|au̯}}
+|}
+In addition, there is the rising diphthong {{IPA|i̯u}}.
+
+[[Syllable]]s can consist of a consonant followed by a vowel (CV) or a single vowel (V).<ref>Dixon 1988:15.</ref>
+[[stress (linguistics)|Word stress]] is based on [[mora (linguistics)|moras]]: a short vowel is one mora, diphthongs and long vowels are two morae. Primary stress is on the penultimate mora of the phonological word. That is, if the last syllable of a word is short, then the penultimate syllable will be stressed, while if the last syllable contains either a long vowel or a diphthong, then it receives primary stress. Stress is not lexical and can shift when suffixes are attached to the [[root (linguistics)|root]].
+Examples:
+*Stress on the penultimate syllable (final short vowel): ''síga'', "day";
+*Stress on the final syllable (diphthong): ''cauravóu'', "youth" (the stress extends over the whole diphthong).
+*Stress shift: ''cábe'', "kick" → ''cabé-ta'', "kick-TR"<ref>Dixon 1988:17</ref>
 
 == Orthography ==
-
-==  The Fijian alphabet is based on the [[:en:Latin_script|Latin script]] and consists of the following letters. <pre style="font-weight:bold;">
+The Fijian alphabet is based on the [[Latin script]] and consists of the following letters.
+<pre style="font-weight:bold;">
 A B C D E F G H I J K L M N O P Q R S T U V W Y Z
-a b c d e f g h i j k l m n o p q r s t u v w y z</pre> Among the consonants, there is almost a one-to-one correspondence between letters and phonemes:  {| | width="200" valign="top" |
+a b c d e f g h i j k l m n o p q r s t u v w y z</pre>
+
+Among the consonants, there is almost a one-to-one correspondence between letters and phonemes:
+{|
+| valign=top width=200 |
 * '''b''' = {{IPA|[ᵐb]}}
 * '''c''' = {{IPA|[ð]}}
 * '''d''' = {{IPA|[ⁿd]}} ('''di''' = {{IPA|[ⁿdʒi]}})
@@ -49,7 +188,8 @@ a b c d e f g h i j k l m n o p q r s t u v w y z</pre> Among the consonants, th
 * '''h''' = {{IPA|[h] ~ [x]}}
 * '''j''' = {{IPA|[tʃ] ~ [ⁿdʒ]}}
 * '''k''' = {{IPA|[k]}}
-* '''l''' = {{IPA|[l]}} | width="200" valign="top" |
+* '''l''' = {{IPA|[l]}}
+| valign=top width=200 |
 * '''m''' = {{IPA|[m]}}
 * '''n''' = {{IPA|[n]}} ('''nr''' = {{IPA|[ᶯɖ]}})
 * '''p''' = {{IPA|[p]}}
@@ -60,79 +200,699 @@ a b c d e f g h i j k l m n o p q r s t u v w y z</pre> Among the consonants, th
 * '''v''' = {{IPA|[β]}}
 * '''w''' = {{IPA|[ɰ]}}
 * '''y''' = {{IPA|[j]}} or silent
-* '''z''' = {{IPA|[ⁿdʒ]}} |}  In the 1980s, scholars compiling a dictionary added several more consonants and a few consonant clusters to the alphabet. These newcomers were necessary to handle words entering Standard Fijian from not only English, but from other Fijian languages or dialects as well. These are the most important additions: z (nj), as in ziza 'ginger' and h (h), as in haya 'hire'.<ref>{{Cite book|title=Say it in Fijian : an entertaining introduction to the standard language of Fiji|last=Schütz, Albert J., 1936-|date=2003|publisher=Textbook Wholesalers Ltd|isbn=1862730385|oclc=156199054}}<cite id="CITEREFSchütz,_Albert_J.,_1936-2003" class="citation book cs1" data-ve-ignore="true">Schütz, Albert J., 1936- (2003). ''Say it in Fijian : an entertaining introduction to the standard language of Fiji''. Textbook Wholesalers Ltd. [[ISBN (identifier)|ISBN]]&nbsp;[[Special:BookSources/1862730385|<bdi>1862730385</bdi>]]. [[OCLC (identifier)|OCLC]]&nbsp;[//www.worldcat.org/oclc/156199054 156199054].</cite><span title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.btitle=Say+it+in+Fijian+%3A+an+entertaining+introduction+to+the+standard+language+of+Fiji&rft.pub=Textbook+Wholesalers+Ltd&rft.date=2003&rft_id=info%3Aoclcnum%2F156199054&rft.isbn=1862730385&rft.au=Sch%C3%BCtz%2C+Albert+J.%2C+1936-&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFijian+language" class="Z3988" data-ve-ignore="true"></span><span class="cs1-maint citation-comment" data-ve-ignore="true">CS1 maint: multiple names: authors list ([[:Category:CS1 maint: multiple names: authors list|link]])</span>
-[[Category:CS1 maint: multiple names: authors list]]</ref>   Note that for phonological reasons '''ti''' and '''di''' are pronounced {{IPA|[tʃi]}}, {{IPA|[ⁿdʒi]}} rather than {{IPA|[ti]}}, {{IPA|[ⁿdi]}} (cf. Japanese [[:en:Chi_(kana)|chi kana]], or in standard [[:en:Brazilian_Portuguese#Consonants|Brazilian Portuguese]]). Hence, the Fijian name for Fiji, '''Viti''', from an allophonic pronunciation of {{IPA|[βitʃi]}} as {{IPA|[ɸidʒi]}}.   In addition, the [[:en:Digraph_(orthography)|digraph]] '''dr''' stands for [[:en:Postalveolar|postalveolar]] {{IPA|[ⁿd̠]}}, or a prenasalized trill {{IPA|[ⁿᵈ̠r̠]}} in careful pronunciation, or more commonly for some people and in some dialects.   The vowel letters '''a e i o u''' have roughly their IPA values, {{IPA|[a ɛ~e i ɔ~o u]}}.  The [[:en:Vowel_length|vowel length]] contrast is not usually indicated in writing, except in dictionaries and textbooks for learners of the language, where it is indicated by a [[:en:Macron_(diacritic)|macron]] over the vowel in question; Dixon, in the work cited below, doubles all long vowels in his spelling system. Diphthongs are ''ai au ei eu oi ou'' and ''iu,'' pronounced {{IPA|[ɛi̯ ɔu̯ ei̯ eu̯ oi̯ ou̯ i̯u]}}.  ==
+*'''z''' = {{IPA|[ⁿdʒ]}}
+|}
+In the 1980s, scholars compiling a dictionary added several more consonants and a few consonant clusters to the alphabet. These newcomers were necessary to handle words entering Standard Fijian from not only English, but from other Fijian languages or dialects as well. These are the most important additions: z (nj), as in ziza 'ginger' and h (h), as in haya 'hire'.<ref>{{Cite book|title=Say it in Fijian : an entertaining introduction to the standard language of Fiji|last=Schütz, Albert J., 1936-|date=2003|publisher=Textbook Wholesalers Ltd|isbn=1862730385|oclc=156199054}}</ref>
+
+Note that for phonological reasons '''ti''' and '''di''' are pronounced {{IPA|[tʃi]}}, {{IPA|[ⁿdʒi]}} rather than {{IPA|[ti]}}, {{IPA|[ⁿdi]}} (cf. Japanese [[Chi (kana)|chi kana]], or in standard [[Brazilian Portuguese#Consonants|Brazilian Portuguese]]). Hence, the Fijian name for Fiji, '''Viti''', from an allophonic pronunciation of {{IPA|[βitʃi]}} as {{IPA|[ɸidʒi]}}.
+
+In addition, the [[digraph (orthography)|digraph]] '''dr''' stands for [[postalveolar]] {{IPA|[ⁿd̠]}}, or a prenasalized trill {{IPA|[ⁿᵈ̠r̠]}} in careful pronunciation, or more commonly for some people and in some dialects.
+
+The vowel letters '''a e i o u''' have roughly their IPA values, {{IPA|[a ɛ~e i ɔ~o u]}}.  The [[vowel length]] contrast is not usually indicated in writing, except in dictionaries and textbooks for learners of the language, where it is indicated by a [[Macron (diacritic)|macron]] over the vowel in question; Dixon, in the work cited below, doubles all long vowels in his spelling system. Diphthongs are ''ai au ei eu oi ou'' and ''iu,'' pronounced {{IPA|[ɛi̯ ɔu̯ ei̯ eu̯ oi̯ ou̯ i̯u]}}.
 
 == Morpho-syntax ==
 
 === Negation ===
-
-==  In order to [[:en:Negation_(grammar)|negate]] a phrase or clause in Fijian, certain verbs are used to create this distinction. These verbs of negation are known as semi-auxiliary verbs. Semi-auxiliary verbs fulfil the functions of main verbs (in terms of syntactic form and pattern) and have a NP or complement clause as their subject<ref name=":3">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 279</ref> (complements clauses within negation are introduced by relators ''ni'' (which refers to an event, which is generally a non-specific unit) or ''me'' (which refers is translated as "should", referring to the event within the complement clause should occur)).<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 268-271</ref> Within a complement clause, the semi-auxiliary verb qualifies the predicate.<ref name=":3" />  ==
+In order to [[negation (grammar)|negate]] a phrase or clause in Fijian, certain verbs are used to create this distinction. These verbs of negation are known as semi-auxiliary verbs. Semi-auxiliary verbs fulfil the functions of main verbs (in terms of syntactic form and pattern) and have a NP or complement clause as their subject<ref name=":3" /> (complements clauses within negation are introduced by relators ''ni'' (which refers to an event, which is generally a non-specific unit) or ''me'' (which refers is translated as "should", referring to the event within the complement clause should occur)).<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 268-271</ref> Within a complement clause, the semi-auxiliary verb qualifies the predicate.<ref name=":3">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 279</ref>
 
 ==== Semi-auxiliary verbs ====
+One semi-auxiliary verb used to express negation in Fijian is ''sega.'' This semi-auxiliary can be translated as either “there are no-” or “it is not the case that”, depending on the subject it relates to.<ref name=":2" /> In terms of numerical expression, ''sega'' is also used to express the quantity "none".<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 141</ref> This negator can be used in almost all situations, with the exception of the imperative or in a ''me'' (classifier) clauses.<ref name=":2">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 40</ref> When ''sega'' takes a NP as its subject, the meaning “there are no-” is assumed:
+{|
+|(1)<ref name=":2" />
+|''e''
+|''sega''
+|''a''
+|''‘olii''
+|''(i+na''
+|''‘oro''
+|''yai)''
+|-
+|
+|3sg
+|not
+|ART
+|dog
+|IN+ART
+|village
+|THIS
+|-
+|
+| colspan="7" |“there are no dogs (in this  village)”
+|}
 
-==  One semi-auxiliary verb used to express negation in Fijian is ''sega.'' This semi-auxiliary can be translated as either “there are no-” or “it is not the case that”, depending on the subject it relates to.<ref name=":2">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 40</ref> In terms of numerical expression, ''sega'' is also used to express the quantity "none".<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 141</ref> This negator can be used in almost all situations, with the exception of the imperative or in a ''me'' (classifier) clauses.<ref name=":2" /> When ''sega'' takes a NP as its subject, the meaning “there are no-” is assumed:  {| |(1)<ref name=":2" /> |''e'' |''sega'' |''a'' |''‘olii'' |''(i+na'' |''‘oro'' |''yai)'' |- | |3sg |not |ART |dog |IN+ART |village |THIS |- | | colspan="7" |“there are no dogs (in this  village)” |}  Predicate clauses can also be negated in Fijian with the semi-auxiliary verb ''sega''. This can only be completed when the predicate is placed into a complement clause.<ref name=":2" /> The subject of ''sega'' must also be ''ni'', which introduces the complement clause. It is then translated as “it is not the case that (predicate clause)”.<ref name=":2" /> An example of this construction is shown here:  {| |(2)<ref name=":2" /> |''e'' |''sega'' |''[ni'' |''la'o'' |''o'' |''Jone]'' |- | |3sg |not |THAT |go |ART |John |- | | colspan="6" |“John is not going (lit: it is not  the case that John is going)” |}  Hence, the only way a verb (which is generally the head of a predicate phrase) can be negated in Fijian is when it forms part of the [''e sega ni'' VERB] construction.<ref name=":2" /> However, in Fijian the head of a predicate phrase may belong to almost any word class. If another word (e.g. a noun) is used, the structure of negation alters.<ref name=":2" /> This distinction can be shown through diverse examples of the negating NPs in Fijian. The below examples show the difference between a noun as the head of a NP and a noun as the head of a predicate in a complement clause, within negation:   {| |+'''NP as subject of ''sega''''' |(3)<ref name=":2" /> |''e'' |''sega'' |''a'' |''‘olii'' |- | |3sg |not |ART |dog |- | | colspan="4" |“there is no dog” |}  {| |+'''''Ni'' as the subject of ''sega''''' |(4)<ref name=":2" /> |''e'' |''sega'' |''ni'' |''‘olii'' |- | |3sg |not |THAT |dog |- | | colspan="4" |“it isn’t a dog (it may be a cat)” |}  Additionally, ''sega'' can also work with relator ''se'' which introduces interrogative clauses.<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 270</ref> This combination creates a form translatable as "or not":   {| |(5)<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 271</ref> |''au'' |''tovele-a'' |''se'' |''<nowiki/>'ana'' |''vina'a'' |''a'' |''<nowiki/>'aa.'ana'' |''yai'' |''(se'' |''sega)'' |- | |1sg |test-TR |WHETHER |eat |good |ART |food |THIS |OR |NOT |- | | colspan="10" |"I'll test whether this food tastes good or not" |}  Another common negator is ''‘ua~waa’ua'', which is translatable as “don’t, not”.<ref name=":3" /> Differently to ''sega,'' this semi-auxiliary verb is used for imperatives and in ''me'' clauses. Therefore, these semi-auxiliaries are fixed, and cannot be used interchangeably.<ref name=":4">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 281</ref> ''‘Ua'' and ''waa’ua'' semantically have the same meaning, however ''waa’ua'' may be regarded as having a higher intensity or stronger sense; in most instances either semi-auxiliary verb can be used.<ref name=":4" /> ''‘Ua~waa’ua'' can take a NP as its subject, but most commonly takes the ''ni'' complement as a subject,<ref name=":5">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 282</ref> which is demonstrated below:  {| |(6)<ref name=":5" /> |''e'' |''aa'' |''taqo.-ma’ini'' |''au'' |''o'' |''Jone'' |''me+u'' |''‘ua'' |''ni'' |''lau-.vacu'' |- | |3sg |PAST |defend-TR |1sg |ART |Person |should+1sg |not |THAT |PASS-punch |- | | colspan="10" |“John defended me from being  punched (lit: that I should not be punched)” |}  An example of ''ua~waa’ua'' used in imperative structure can be seen here:  {| |(7)<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 294</ref> |''au'' |''saa'' |''vei-.vutuni.-ta'ina'' |''sara'' |''me+u'' |''saa'' |''waa'ua'' |''ni'' |''va'a-.yaco-ra'' |tale |a |ca'a.ca'a |yai |i+na |siga.tabu |- | |1sg |ASP |repent-TR |MODIF |SHOULD+1sg |ASP |not |THAT |MAKE-happen-TR |AGAIN |ART |REDUP-do |THIS |ON+ART |Sunday |- | | colspan="15" |"I repented (of hunting pigs on the sabbath) so that I won't ever again do this activity on Sunday" |}  It is important to note that in the case of pronouns, they can only be negated when they form part of the NP, when acting as the predicate head.<ref name=":8">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 67</ref> Therefore, pronouns cannot be the NP subject of semi-auxiliary verbs ''sega'' or ''‘ua~waa’ua'' in the way that general nouns can <ref name=":8" />  ==
+Predicate clauses can also be negated in Fijian with the semi-auxiliary verb ''sega''. This can only be completed when the predicate is placed into a complement clause.<ref name=":2" /> The subject of ''sega'' must also be ''ni'', which introduces the complement clause. It is then translated as “it is not the case that (predicate clause)”.<ref name=":2" /> An example of this construction is shown here:
+{|
+|(2)<ref name=":2" />
+|''e''
+|''sega''
+|''[ni''
+|''la'o''
+|''o''
+|''Jone]''
+|-
+|
+|3sg
+|not
+|THAT
+|go
+|ART
+|John
+|-
+|
+| colspan="6" |“John is not going (lit: it is not  the case that John is going)”
+|}
+ 
+Hence, the only way a verb (which is generally the head of a predicate phrase) can be negated in Fijian is when it forms part of the [''e sega ni'' VERB] construction.<ref name=":2" /> However, in Fijian the head of a predicate phrase may belong to almost any word class. If another word (e.g. a noun) is used, the structure of negation alters.<ref name=":2" /> This distinction can be shown through diverse examples of the negating NPs in Fijian. The below examples show the difference between a noun as the head of a NP and a noun as the head of a predicate in a complement clause, within negation: 
+{|
+|+'''NP as subject of ''sega'''''
+|(3)<ref name=":2" />
+|''e''
+|''sega''
+|''a''
+|''‘olii''
+|-
+|
+|3sg
+|not
+|ART
+|dog
+|-
+|
+| colspan="4" |“there is no dog”
+|}
+{|
+|+'''''Ni'' as the subject of ''sega'''''
+|(4)<ref name=":2" />
+|''e''
+|''sega''
+|''ni''
+|''‘olii''
+|-
+|
+|3sg
+|not
+|THAT
+|dog
+|-
+|
+| colspan="4" |“it isn’t a dog (it may be a cat)”
+|}
+
+Additionally, ''sega'' can also work with relator ''se'' which introduces interrogative clauses.<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 270</ref> This combination creates a form translatable as "or not": 
+{|
+|(5)<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 271</ref>
+|''au''
+|''tovele-a''
+|''se''
+|''<nowiki/>'ana''
+|''vina'a''
+|''a''
+|''<nowiki/>'aa.'ana''
+|''yai''
+|''(se''
+|''sega)''
+|-
+|
+|1sg
+|test-TR
+|WHETHER
+|eat
+|good
+|ART
+|food
+|THIS
+|OR
+|NOT
+|-
+|
+| colspan="10" |"I'll test whether this food tastes good or not"
+|}
+
+Another common negator is ''‘ua~waa’ua'', which is translatable as “don’t, not”.<ref name=":3" /> Differently to ''sega,'' this semi-auxiliary verb is used for imperatives and in ''me'' clauses. Therefore, these semi-auxiliaries are fixed, and cannot be used interchangeably.<ref name=":4">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 281</ref> ''‘Ua'' and ''waa’ua'' semantically have the same meaning, however ''waa’ua'' may be regarded as having a higher intensity or stronger sense; in most instances either semi-auxiliary verb can be used.<ref name=":4" /> ''‘Ua~waa’ua'' can take a NP as its subject, but most commonly takes the ''ni'' complement as a subject,<ref name=":5">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 282</ref> which is demonstrated below:
+{|
+|(6)<ref name=":5" />
+|''e''
+|''aa''
+|''taqo.-ma’ini''
+|''au''
+|''o''
+|''Jone''
+|''me+u''
+|''‘ua''
+|''ni''
+|''lau-.vacu''
+|-
+|
+|3sg
+|PAST
+|defend-TR
+|1sg
+|ART
+|Person
+|should+1sg
+|not
+|THAT
+|PASS-punch
+|-
+|
+| colspan="10" |“John defended me from being  punched (lit: that I should not be punched)”
+|}
+An example of ''ua~waa’ua'' used in imperative structure can be seen here:
+{|
+|(7)<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago : University of Chicago Press. p. 294</ref>
+|''au''
+|''saa''
+|''vei-.vutuni.-ta'ina''
+|''sara''
+|''me+u''
+|''saa''
+|''waa'ua''
+|''ni''
+|''va'a-.yaco-ra''
+|tale
+|a
+|ca'a.ca'a
+|yai
+|i+na
+|siga.tabu
+|-
+|
+|1sg
+|ASP
+|repent-TR
+|MODIF
+|SHOULD+1sg
+|ASP
+|not
+|THAT
+|MAKE-happen-TR
+|AGAIN
+|ART
+|REDUP-do
+|THIS
+|ON+ART
+|Sunday
+|-
+|
+| colspan="15" |"I repented (of hunting pigs on the sabbath) so that I won't ever again do this activity on Sunday"
+|}
+
+It is important to note that in the case of pronouns, they can only be negated when they form part of the NP, when acting as the predicate head.<ref name=":8" /> Therefore, pronouns cannot be the NP subject of semi-auxiliary verbs ''sega'' or ''‘ua~waa’ua'' in the way that general nouns can <ref name=":8">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 67</ref>
 
 ===== Combining semi-auxiliary verbs =====
-
-==  ''Sega'' and ''‘ua~waa’ua'' can be combined with other auxiliary verbs to produce diverse constructions.<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 284</ref> Both ''sega'' and ''‘ua~waa’ua'' can connect with semi-auxiliary ''rawa'' ("can") to negate the concept of possibility which is attached to the verb 'can' (resulting in constructions such as "can't" and "shouldn't"). <ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 285</ref>  ==
+''Sega'' and ''‘ua~waa’ua'' can be combined with other auxiliary verbs to produce diverse constructions.<ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 284</ref> Both ''sega'' and ''‘ua~waa’ua'' can connect with semi-auxiliary ''rawa'' ("can") to negate the concept of possibility which is attached to the verb 'can' (resulting in constructions such as "can't" and "shouldn't"). <ref>Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 285</ref>
 
 ==== Modifiers in negation ====
+Two main modifiers, ''soti'' ('a lot') and ''sara'' ('very; (go) right on, immediately’) play key roles in negation in Fijian, and work in conjunction with semi-auxiliary verbs''. Soti'' is added after negators ''sega'' and ''‘ua~waa’ua'', and functions as an intensity marker.<ref name=":6">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 96</ref>  The construction ''sega soti'' is translatable as ‘not a lot of, not very’. The ''sega soti'' construction requires an adjective (or an adverb which results from an adjective), and must take ''ni'' (complement clause) as its subject in order to function.<ref name=":6" /> ''Soti'' can be found in position immediately after ''sega'', but may also be found after the ''ni'' relator without changing the meaning of the phrase.<ref name=":7">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 97</ref>'' ''The primary construction is shown below:
+{|
+|(8)<ref name=":6" />
+|''au''
+|''sega''
+|''soti''
+|''ni''
+|''vu’u''
+|''me''
+|''tautauvata''
+|''‘ei''
+|''Sepo''
+|-
+|
+|1sg
+|not
+|LOT
+|THAT
+|clever
+|should
+|same
+|WITH
+|Person
+|-
+|
+| colspan="9" |“I’m not as clever as Sepo (lit: I  am not clever, to be the same as Sepo)”
+|}
 
-==  Two main modifiers, ''soti'' ('a lot') and ''sara'' ('very; (go) right on, immediately’) play key roles in negation in Fijian, and work in conjunction with semi-auxiliary verbs''. Soti'' is added after negators ''sega'' and ''‘ua~waa’ua'', and functions as an intensity marker.<ref name=":6">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 96</ref>  The construction ''sega soti'' is translatable as ‘not a lot of, not very’. The ''sega soti'' construction requires an adjective (or an adverb which results from an adjective), and must take ''ni'' (complement clause) as its subject in order to function.<ref name=":6" /> ''Soti'' can be found in position immediately after ''sega'', but may also be found after the ''ni'' relator without changing the meaning of the phrase.<ref name=":7">Dixon, Robert M. W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. p. 97</ref>'' ''The primary construction is shown below:  {| |(8)<ref name=":6" /> |''au'' |''sega'' |''soti'' |''ni'' |''vu’u'' |''me'' |''tautauvata'' |''‘ei'' |''Sepo'' |- | |1sg |not |LOT |THAT |clever |should |same |WITH |Person |- | | colspan="9" |“I’m not as clever as Sepo (lit: I  am not clever, to be the same as Sepo)” |}  Similarly, to ''soti'', the modifier ''sara'' (‘very; (go) right on, immediately’) can also be used in conjunction with ''sega'' and ''ua~waa’ua''. This combination is used to stress the negative sense and aspect of a phrase:<ref name=":7" />  {| |(9)<ref name=":7" /> |''‘ua'' |''ni'' |''la’i'' |''taaoo'' |''tale'' |''i'' |''Viidawa,'' |''la’o'' |''sara'' |''i'' |''‘Orovou!'' |- | |DON’T |THAT |GO |held up |AGAIN |AT |Place |go |MODIF |TO |Place |- | | colspan="11" |“don’t get held up at Viidawa (a  place en route, where there may be some enticing event in progress), go  straight on to ‘Orovou!” |}  ==
+Similarly, to ''soti'', the modifier ''sara'' (‘very; (go) right on, immediately’) can also be used in conjunction with ''sega'' and ''ua~waa’ua''. This combination is used to stress the negative sense and aspect of a phrase:<ref name=":7" /> 
+{|
+|(9)<ref name=":7" />
+|''‘ua''
+|''ni''
+|''la’i''
+|''taaoo''
+|''tale''
+|''i''
+|''Viidawa,''
+|''la’o''
+|''sara''
+|''i''
+|''‘Orovou!''
+|-
+|
+|DON’T
+|THAT
+|GO
+|held up
+|AGAIN
+|AT
+|Place
+|go
+|MODIF
+|TO
+|Place
+|-
+|
+| colspan="11" |“don’t get held up at Viidawa (a  place en route, where there may be some enticing event in progress), go  straight on to ‘Orovou!”
+|}
 
 === Pronouns and person markers ===
+The pronominal system of Fijian is remarkably rich. Like many other languages, it recognises three [[grammatical person|persons]]; first person (speaker),
+second person (addressee), and third person (all other). There is no distinction between human, non-human, animate, or inanimate.<ref>Dixon 1988: 52</ref> 
+Four numbers are represented; singular, [[Grammatical number#Dual|dual]], [[Grammatical number#Paucal|paucal]], and plural&mdash;'paucal' refers to more than two people who have some relationship, as a family or work group; if none, 'plural' is used.  Like many other Oceanic languages, Fijian pronouns are marked for [[grammatical number|number]] and [[clusivity]].<ref>{{Cite web|url = http://wals.info/feature/39A#3/-9.45/182.72|title = WALS Online – Feature 39A: Inclusive/Exclusive Distinction in Independent Pronouns|date = 2013|access-date = May 4, 2015|website = The World Atlas of Language Structures Online|publisher = Leipzig: Max Planck Institute for Evolutionary Anthropology.|last = Cysouw|first = Michael}}</ref>
 
-==  The pronominal system of Fijian is remarkably rich. Like many other languages, it recognises three [[:en:Grammatical_person|persons]]; first person (speaker), second person (addressee), and third person (all other). There is no distinction between human, non-human, animate, or inanimate.<ref>Dixon 1988: 52</ref>  Four numbers are represented; singular, [[:en:Grammatical_number#Dual|dual]], [[:en:Grammatical_number#Paucal|paucal]], and plural&#x2014;'paucal' refers to more than two people who have some relationship, as a family or work group; if none, 'plural' is used.  Like many other Oceanic languages, Fijian pronouns are marked for [[:en:Grammatical_number|number]] and [[:en:Clusivity|clusivity]].<ref>{{Cite web|url=http://wals.info/feature/39A#3/-9.45/182.72|title=WALS Online – Feature 39A: Inclusive/Exclusive Distinction in Independent Pronouns|date=2013|access-date=May 4, 2015|website=The World Atlas of Language Structures Online|publisher=Leipzig: Max Planck Institute for Evolutionary Anthropology.|last=Cysouw|first=Michael}}<cite id="CITEREFCysouw2013" class="citation web cs1" data-ve-ignore="true">Cysouw, Michael (2013). [http://wals.info/feature/39A#3/-9.45/182.72 "WALS Online – Feature 39A: Inclusive/Exclusive Distinction in Independent Pronouns"]. ''The World Atlas of Language Structures Online''. Leipzig: Max Planck Institute for Evolutionary Anthropology<span class="reference-accessdate">. Retrieved <span class="nowrap">May 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=The+World+Atlas+of+Language+Structures+Online&rft.atitle=WALS+Online+%E2%80%93+Feature+39A%3A+Inclusive%2FExclusive+Distinction+in+Independent+Pronouns&rft.date=2013&rft.aulast=Cysouw&rft.aufirst=Michael&rft_id=http%3A%2F%2Fwals.info%2Ffeature%2F39A%233%2F-9.45%2F182.72&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFijian+language" class="Z3988" data-ve-ignore="true"></span></ref>  {| class="wikitable" |+Fijian Pronouns<ref>Dixon 1988: 54–55</ref> ! rowspan="2" colspan="2" |Person ! colspan="4" |Number |- !singular !dual !paucal !plural |- | rowspan="3" |1INCL |subject | rowspan="3" | |''(e)taru'' |''tou'' |''(e)ta'' |- |object |''<nowiki/>'eetaru'' |''<nowiki/>'etatou'' |''<nowiki/>'eta'' |- |cardinal |''<nowiki/>'eetaru'' |''<nowiki/>'etatou'' |''<nowiki/>'eta'' |- | rowspan="3" |1EXCL |subject |''au~u'' |''<nowiki/>'eirau'' |''<nowiki/>'eitou'' |''<nowiki/>'eimami'' |- |object |''au'' |''<nowiki/>'eirau'' |''<nowiki/>'eitou'' |''<nowiki/>'eimami'' |- |cardinal |''yau'' |''<nowiki/>'eirau'' |''<nowiki/>'eitou'' |''<nowiki/>'eimami'' |- | rowspan="3" |2 |subject |''o'' |''(o)mudrau''  ~(o)drau |''(o)mudou''  ~(o)dou |''(o)munuu''  ~(o)nuu |- |object |''i'o'' |''<nowiki/>'emudrau'' |''<nowiki/>'emudou'' |''<nowiki/>'emunuu'' |- |cardinal |''i'o'' |''<nowiki/>'emudrau'' |''<nowiki/>'emudou'' |''<nowiki/>'emunuu'' |- | rowspan="3" |3 |subject |''e'' |''(e)rau'' |''(e)ratou'' |''(e)ra'' |- |object |''<nowiki/>'ea'' |''rau'' |''iratou'' |''ira'' |- |cardinal |''<nowiki/>'ea'' |''(i)rau'' |''(i)ratou'' |''(i)ra'' |}  ==
+{| class="wikitable"
+|+Fijian Pronouns<ref>Dixon 1988: 54–55</ref>
+! rowspan="2" colspan="2" |Person
+! colspan="4" |Number
+|-
+!singular
+!dual
+!paucal
+!plural
+|-
+| rowspan="3" |1INCL
+|subject
+| rowspan="3" |
+|''(e)taru''
+|''tou''
+|''(e)ta''
+|-
+|object
+|''<nowiki/>'eetaru''
+|''<nowiki/>'etatou''
+|''<nowiki/>'eta''
+|-
+|cardinal
+|''<nowiki/>'eetaru''
+|''<nowiki/>'etatou''
+|''<nowiki/>'eta''
+|-
+| rowspan="3" |1EXCL
+|subject
+|''au~u''
+|''<nowiki/>'eirau''
+|''<nowiki/>'eitou''
+|''<nowiki/>'eimami''
+|-
+|object
+|''au''
+|''<nowiki/>'eirau''
+|''<nowiki/>'eitou''
+|''<nowiki/>'eimami''
+|-
+|cardinal
+|''yau''
+|''<nowiki/>'eirau''
+|''<nowiki/>'eitou''
+|''<nowiki/>'eimami''
+|-
+| rowspan="3" |2
+|subject
+|''o''
+| ''(o)mudrau''
+ ~(o)drau
+|''(o)mudou''
+ ~(o)dou
+|''(o)munuu''
+ ~(o)nuu
+|-
+|object
+|''i'o''
+|''<nowiki/>'emudrau''
+|''<nowiki/>'emudou''
+|''<nowiki/>'emunuu''
+|-
+|cardinal
+|''i'o''
+| ''<nowiki/>'emudrau''
+| ''<nowiki/>'emudou''
+|''<nowiki/>'emunuu''
+|-
+| rowspan="3" |3
+|subject
+|''e''
+|''(e)rau''
+|''(e)ratou''
+|''(e)ra''
+|-
+|object
+|''<nowiki/>'ea''
+|''rau''
+|''iratou''
+|''ira''
+|-
+|cardinal
+|''<nowiki/>'ea''
+|''(i)rau''
+|''(i)ratou''
+|''(i)ra''
+|}
 
 ==== Forms and function ====
+Each pronoun can have five forms, but some person-number
+combinations may have the same form for more than one function,<ref name=":0" /> as can be seen
+in the table above.
 
-==  Each pronoun can have five forms, but some person-number combinations may have the same form for more than one function,<ref name=":0">Dixon 1988: 53</ref> as can be seen in the table above. The forms are: '''Cardinal''' – used when a pronoun occurs as the head of a NP. A cardinal pronoun is usually preceded by the proper article '<nowiki/>''o''<nowiki/>', except when preceded by a preposition:  {| class="MsoTableGrid"  |(1)<ref name=":0" /> | ''era''     | ''sa''     | ''la'o''     | '''''[o'''''     | '''''ira]'''''   |- | | 3PL     | ASP     | go     | '''ART'''     | '''3PL'''   |- | | colspan="5" | "They are going"    |}  {| class="MsoTableGrid"  |(2)<ref name=":0" /> | ''au''     | ''aa''     | ''soli-a''     | ''[a ''     | ''niu]''     | '''''[vei'''''     | '''''ira]'''''   |- | | 1SG     | PAST     | give-TR     | ART     | coconut     | '''PREP'''     | '''3PL'''   |- | | colspan="7" | "I gave [the coconut] [to them]    |}  '''Subject''' – the first constituent of a [[:en:Predicate_(grammar)|predicate]], acts as person marking. Examples can be seen in examples (1) and (2) above: '<nowiki/>''era''<nowiki/>' and '<nowiki/>''au''<nowiki/>', and (3) below: '''o''<nowiki/>' '''Object''' – follows the ''-i''-final form of a transitive verb:  {| class="MsoTableGrid"    |(3)<ref name=":0" /> | ''o''     | ''aa''     | ''biu-ti''     | '''''ira'''''   |- | | 2SG     | PAST     | leave-TR     | '''3PL'''   |- | | colspan="4" | "You left them"    |}  '''Possessive suffix''' – attaches to [[:en:Inalienable_possession|inalienable]] nouns, and '''Possessive''' – precedes the NP head of the 'possessed' constituent in a possessive construction.   (For more information on the form and function of these possessive pronouns, see Possession.)  ==
+The forms are:
+
+'''Cardinal''' – used
+when a pronoun occurs as the head of a NP. A cardinal pronoun is usually
+preceded by the proper article '''o''<nowiki/>',
+except when preceded by a preposition:
+{| class="MsoTableGrid"
+ |(1)<ref name=":0" />
+|
+''era''
+  
+  |
+''sa''
+  
+  |
+''la'o''
+  
+  |
+'''''[o'''''
+  
+  |
+'''''ira]'''''  
+ 
+ |-
+|
+|
+3PL
+  
+  |
+ASP
+  
+  |
+go
+  
+  |
+'''ART'''
+  
+  |
+'''3PL'''  
+ 
+ |-
+|
+| colspan="5" |
+"They are going"  
+ 
+|}
+
+{| class="MsoTableGrid"
+ |(2)<ref name=":0" />
+|
+''au''
+  
+  |
+''aa''
+  
+  |
+''soli-a''
+  
+  |
+''[a ''
+  
+  |
+''niu]''
+  
+  |
+'''''[vei'''''
+  
+  |
+'''''ira]'''''  
+ 
+ |-
+|
+|
+1SG
+  
+  |
+PAST
+  
+  |
+give-TR
+  
+  |
+ART
+  
+  |
+coconut
+  
+  |
+'''PREP'''
+  
+  |
+'''3PL'''  
+ 
+ |-
+|
+| colspan="7" |
+"I gave [the coconut] [to them]  
+ 
+|}
+
+'''Subject''' – the
+first constituent of a [[predicate (grammar)|predicate]], acts as person marking. Examples can be seen in examples (1) and (2) above: '<nowiki/>''era''<nowiki/>' and '<nowiki/>''au''<nowiki/>', and (3) below: '''o''<nowiki/>'
+
+'''Object''' – follows
+the ''-i''-final form of a transitive verb:
+
+{| class="MsoTableGrid"
+ 
+  |(3)<ref name=":0" />
+|
+''o''
+  
+  |
+''aa''
+  
+  |
+''biu-ti''
+  
+  |
+'''''ira'''''  
+ 
+ |-
+|
+|
+2SG
+  
+  |
+PAST
+  
+  |
+leave-TR
+  
+  |
+'''3PL'''  
+ 
+ |-
+|
+| colspan="4" |
+"You left them"  
+ 
+|}
+
+'''Possessive suffix'''
+– attaches to [[Inalienable possession|inalienable]] nouns, and
+
+'''Possessive''' –
+precedes the NP head of the 'possessed' constituent in a possessive
+construction.
+
+(For more information on the form and function of these possessive
+pronouns, see Possession.)
 
 ==== Use ====
+The major clausal structure in Fijian minimally includes a
+predicate, which usually has a verb at its head.<ref name=":1">Dixon 1988: 33</ref> The initial element
+in the predicate is the subject form pronoun:
 
-==  The major clausal structure in Fijian minimally includes a predicate, which usually has a verb at its head.<ref name=":1">Dixon 1988: 33</ref> The initial element in the predicate is the subject form pronoun:  {| class="MsoTableGrid"    |(4a)<ref name=":1" /> | ''au''     | ''la'o''   |- | | 1SG     | go     |- | | colspan="2" | "I am going"   |- | | | |- |(4b) | ''era''     | ''la'o''   |- | | 3PL     | go     |- | | colspan="2" | "They are going"    |}  This 'subject marker + verb' predicate construction is obligatory, every other constituent is optional. The subject may be expanded upon by an NP following the predicate:  {| class="MsoTableGrid"    |(5)<ref name=":1" /> | ''era''     | ''la'o''     | ''[a''     | ''gone]''   |- | | 3PL     | go     | ART     | child     |- | | colspan="4" | "[the children] are going"  "They [the children] are going"    |}  The subject pronoun constituent of a predicate acts mainly as a person marker.   Fijian is a [[:en:Verb–object–subject|verb–object–subject]] language, and the subject pronoun may be translated as its equivalent in English, the subject NP of a clause in Fijian follows the verb and the object if it is included.   The social use of pronouns is largely driven by respect and hierarchy. Each of the non-singular second person pronouns can be used for a singular addressee. For example, if one's actual or potential in-laws are addressed, the 2DU pronoun should be used. Similarly, when a brother or sister of the opposite sex is addressed, the 2PA pronoun should be used, and it can also be used for same-sex siblings when the speaker wishes to show respect. The 2PL pronoun can be used to show respect to elders, particularly the village chief.<ref name=":0" />  ==
+{| class="MsoTableGrid"
+ 
+  |(4a)<ref name=":1" />
+|
+''au''
+  
+  |
+''la'o''  
+ 
+ |-
+|
+|
+1SG
+  
+  |
+go  
+ 
+ |-
+|
+| colspan="2" |
+"I am going"  
+|-
+|
+|
+|
+|-
+|(4b)
+|
+''era''
+  
+  |
+''la'o''  
+ 
+ |-
+|
+|
+3PL
+  
+  |
+go  
+ 
+ |-
+|
+| colspan="2" |
+"They are going"  
+ 
+|}
+
+This 'subject marker + verb' predicate construction is
+obligatory, every other constituent is optional. The subject may be expanded
+upon by an NP following the predicate:
+
+{| class="MsoTableGrid"
+ 
+  |(5)<ref name=":1" />
+|
+''era''
+  
+  |
+''la'o''
+  
+  |
+''[a''
+  
+  |
+''gone]''  
+ 
+ |-
+|
+|
+3PL
+  
+  |
+go
+  
+  |
+ART
+  
+  |
+child  
+ 
+ |-
+|
+| colspan="4" |
+"[the children] are going"
+
+"They [the children] are going"  
+ 
+|}
+The subject pronoun constituent of a predicate acts mainly as a person marker.
+
+Fijian is a [[verb–object–subject]] language, and the subject pronoun may be translated as its
+equivalent in English, the subject NP of a clause in Fijian follows the verb
+and the object if it is included.
+
+The social use of pronouns is largely driven by respect and hierarchy. Each of the non-singular second person pronouns can be used for a singular addressee. For example, if one's actual or potential in-laws are addressed, the
+2DU pronoun should be used. Similarly, when a brother or sister of
+the opposite sex is addressed, the 2PA pronoun should be used, and it can also be used
+for same-sex siblings when the speaker wishes to show respect. The 2PL pronoun
+can be used to show respect to elders, particularly the village chief.<ref name=":0">Dixon 1988: 53</ref>
 
 === Possession ===
+Possession is a grammatical term for a special relationship between two entities: a "possessor" and a "possessed". The relationship may be one of legal ownership, but in Fijian, like many other Austronesian languages, it is often much broader, encompassing kin relations, body parts, parts of an inanimate whole and personal qualities and concepts such as control, association and belonging.
 
-==  Possession is a grammatical term for a special relationship between two entities: a "possessor" and a "possessed". The relationship may be one of legal ownership, but in Fijian, like many other Austronesian languages, it is often much broader, encompassing kin relations, body parts, parts of an inanimate whole and personal qualities and concepts such as control, association and belonging. Fijian has a complex system of possessive constructions, depending on the nature of the possessor and of the possessed. Choosing the appropriate structure depends on knowing<ref>Dixon 1988: 119</ref> whether the possessor is described by a person or placename; a pronoun; or a common noun (with human or non-human animate, or inanimate reference) and also on whether the possessed is a free noun or a bound noun.  ==
+Fijian has a complex system of possessive constructions, depending on the nature of the possessor and of the possessed. Choosing the appropriate structure depends on knowing<ref>Dixon 1988: 119</ref> whether the possessor is described by a person or placename; a pronoun; or a common noun (with human or non-human animate, or inanimate reference) and also on whether the possessed is a free noun or a bound noun.
 
 ==== Possessor ====
-
-==  Only an animate noun may be a possessor in the true possessive constructions shown below, with possession marked on the possessed NP in a number of ways. For personal and place name possessors, the possessive construction may be made by affixing the possessive suffix ''–i'' to the possessed noun, bound or free. If the possessor is a pronoun, the possessed noun must be marked by one of the pronominal markers which specify person, number and inclusivity/exclusivity (see table). If the possessor is inanimate, the possessive particle ''ni'' is usually placed between the possessed NP and the possessor NP. The particle ''ni'' then indicates association, rather than formal possession, but the construction is still regarded as a possessive construction.  ==
+Only an animate noun may be a possessor in the true possessive constructions shown below, with possession marked on the possessed NP in a number of ways. For personal and place name possessors, the possessive construction may be made by affixing the possessive suffix ''–i'' to the possessed noun, bound or free. If the possessor is a pronoun, the possessed noun must be marked by one of the pronominal markers which specify person, number and inclusivity/exclusivity (see table). If the possessor is inanimate, the possessive particle ''ni'' is usually placed between the possessed NP and the possessor NP. The particle ''ni'' then indicates association, rather than formal possession, but the construction is still regarded as a possessive construction.
 
 ==== Possessed ====
+Free nouns can stand alone and need no affix; most nouns in Fijian fall into this class. Bound nouns require a suffix to complete them and are written ending in a hyphen to indicate this requirement. ''Tama-'' (father) and ''tina-'' (mother) are examples of bound nouns. The classes of free and bound nouns roughly correspond with the concept, common in Austronesian languages, of alienable and inalienable possession, respectively. Alienable possession denotes a relationship in which the thing possessed is not culturally considered an inherent part of the possessor, and inalienable possession indicates a relationship in which the possessed is regarded as an intrinsic part of the possessor.
 
-==  Free nouns can stand alone and need no affix; most nouns in Fijian fall into this class. Bound nouns require a suffix to complete them and are written ending in a hyphen to indicate this requirement. ''Tama-'' (father) and ''tina-'' (mother) are examples of bound nouns. The classes of free and bound nouns roughly correspond with the concept, common in Austronesian languages, of alienable and inalienable possession, respectively. Alienable possession denotes a relationship in which the thing possessed is not culturally considered an inherent part of the possessor, and inalienable possession indicates a relationship in which the possessed is regarded as an intrinsic part of the possessor. Body parts and kin relations are typical examples of inalienable possession. Inanimate objects are typical examples of alienable possession. The alienable nature of free nouns is further marked by prefixes, known as classifiers, indicating certain other characteristics. Some common examples are ''me-'' when the possessed noun is something drinkable, ''ke-'' (or ''‘e'') when the noun is something edible and ''we-'' when the referent of the possessed noun is personal property.  ==
+Body parts and kin relations are typical examples of inalienable possession. Inanimate objects are typical examples of alienable possession.
+
+The alienable nature of free nouns is further marked by prefixes, known as classifiers, indicating certain other characteristics. Some common examples are ''me-'' when the possessed noun is something drinkable, ''ke-'' (or ''‘e'') when the noun is something edible and ''we-'' when the referent of the possessed noun is personal property.
 
 ==== Fijian possessive pronominal suffix markers<ref>Schütz 1985: 449</ref> ====
-
-==  {| class="wikitable" !Person !Single !Dual !Paucal !Plural |- |1 excl |''-qu'' |''-irau'' |''-itou'' |''-imami'' |- |1 incl |''--'' |''-daru'' |''-datou'' |''-da'' |- |2 |''-mu'' |''-mudrau'' |''-mudou'' |''-muni'' |- |3 |''-na'' |''-drau'' |''-dratou'' |''-dra'' |}  ==
+{| class="wikitable"
+|-
+! Person !! Single !! Dual !! Paucal !! Plural
+|-
+| 1 excl || ''-qu'' || ''-irau'' || ''-itou'' || ''-imami''
+|-
+| 1 incl || ''--'' || ''-daru'' || ''-datou'' || ''-da''
+|-
+| 2 || ''-mu'' || ''-mudrau'' || ''-mudou'' || ''-muni''
+|-
+| 3 || ''-na'' || ''-drau'' || ''-dratou'' || ''-dra''
+|}
 
 ==== Possessive constructions<ref>Dixon 1988: 120</ref> ====
+The word order of a possessive construction for all except inanimate possessors is possessed NP-classifier(CLF) + possessive marker (POSS) + possessor NP.
 
-==  The word order of a possessive construction for all except inanimate possessors is possessed NP-classifier(CLF) + possessive marker (POSS) + possessor NP. For an inanimate possessor, the word order is possessed NP + ''ni'' + possessor NP.  {| class="wikitable" ! !POSSESSED !POSSESSED |- |'''POSSESSOR''' |'''bound noun''' |'''free noun''' |- |personal ''or'' place name |suffix ''-i'' (example 1) |classifier plus suffix ''-i''; ''or'' suffix ''-i'' (example 2) |- |pronoun |pronominal suffix; ''or'' suffix ''-i'' (example 3a, b) |classifier plus possessor pronoun (example 4a, b) |- |human noun |pronominal suffix, expanded by post-head possessor NP; ''or'' suffix ''-i'';  ''or'' NP ''ni'' NP (example 5) |classifier plus possessor pronoun, expanded by post-head possessor NP (example 6) |- |animate noun |NP ''ni'' NP ;  ''or'' pronominal suffix, expanded by post-head possessor NP |NP ''ni'' NP; ''or'' classifier plus possessor pronoun, expanded by post-head possessor NP |- |inanimate noun |NP ''ni'' NP (example 7, 8) |NP ''ni'' NP (example 7, 8) |}  Note that there is some degree of flexibility in the use of possessive constructions as described in this table.  ==
+For an inanimate possessor, the word order is possessed NP + ''ni'' + possessor NP.
+
+{| class="wikitable"
+|-
+!  !! POSSESSED !! POSSESSED
+|-
+| '''POSSESSOR''' ||                      '''bound noun''' ||                      '''free noun'''
+|-
+| personal ''or'' place name || suffix ''-i'' (example 1) || classifier plus suffix ''-i''; ''or'' suffix ''-i'' (example 2)
+|-
+| pronoun || pronominal suffix; ''or'' suffix ''-i'' (example 3a, b) || classifier plus possessor pronoun (example 4a, b)
+|-
+| human noun || pronominal suffix, expanded by post-head possessor NP; ''or'' suffix ''-i'';  ''or'' NP ''ni'' NP (example 5) || classifier plus possessor pronoun, expanded by post-head possessor NP (example 6)
+|-
+| animate noun|| NP ''ni'' NP ;  ''or'' pronominal suffix, expanded by post-head possessor NP || NP ''ni'' NP; ''or'' classifier plus possessor pronoun, expanded by post-head possessor NP
+|-
+| inanimate noun || NP ''ni'' NP (example 7, 8) || NP ''ni'' NP (example 7, 8)
+|}
+
+Note that there is some degree of flexibility in the use of possessive constructions as described in this table.
 
 ==== Examples ====
 
-== 
 # ''a	liga-i	Paula''
-#: ART	Hand-POSS	Paula
+#: ART	Hand-POSS	Paula		
 #: "Paula's hand"
 # ''a	waqona	me-i	Paula''	
-#: ART	kava	CLF.DRINK-POSS	Paula
+#: ART	kava	CLF.DRINK-POSS	Paula	
 #: "Paula's kava"
+#
 ## ''a	tama-mudrau	''
-##: ART	father PRON.SUFF.2DUAL
+##: ART	father PRON.SUFF.2DUAL			
 ##: "The father of you two"
 ## ''a	liga-qu''
-##: ART	hand – PRON.SUFF.1SG
+##: ART	hand – PRON.SUFF.1SG			
 ##: "My hand"
+#
 ## ''a me-na ti''	
 ##: ART	CLF.DRINK-POSS.PRON.3SG	tea
 ##: "His / her tea"
 ## ''a	'e-mu	uvi''		
-##: ART	CLF.EAT-POSS-PRON.2SG	yam
+##: ART	CLF.EAT-POSS-PRON.2SG	yam		
 ##: "Your (SG) yam (for eating)."
 # ''a	liga-na''			
 #: ART	Hand- PRON.3SG
@@ -141,18 +901,34 @@ a b c d e f g h i j k l m n o p q r s t u v w y z</pre> Among the consonants, th
 #: ART	CLF.PROPERTY-POSS.PRON.1DUAL	boat	I	and John
 #: John's and my boat (thing owned).
 # ''na	yaca	ni	waqa''	
-#: ART	name	POSS.PART	boat
+#: ART	name	POSS.PART	boat	 
 #: The name of the boat (The name associated with the boat)
 # ''a	vale	ni	kana	''
-#: ART	house	POSS.PART	eat
-#: "A house of eating (A house associated with eating)" = "A restaurant"  ==
+#: ART	house	POSS.PART	eat	 
+#: "A house of eating (A house associated with eating)" = "A restaurant"
 
 == Syntax ==
+The normal Fijian word order is [[Verb–object–subject|VOS]] ([[verb–object–subject]]):
+*E rai-c-a (1) na no-na (2) vale (3) na gone (4).
+*<small>3-sg.-sub.</small> see-<small>trans.</small>-<small>3-sg.-obj.</small> (1) the <small>3-sg.-poss.</small> (2) house (3) the child (4).
+*(The child sees his house.)
 
-==  The normal Fijian word order is [[:en:Verb–object–subject|VOS]] ([[:en:Verb–object–subject|verb–object–subject]]): 
+== Veitikina ==
+{{reflist}}
+* {{cite book | first=R. M. W. | last=Dixon | year=1988 | title=A Grammar of Boumaa Fijian | location=Chicago | publisher=[[University of Chicago Press]] | isbn=0-226-15428-9}}
+* Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wals.info, Accessed on 2015-05-04.)
+* {{cite book | first=Albert J. | last=Schütz | year=1985 | title=The Fijian Language | location=Honolulu | publisher=[[University of Hawaii Press]] | isbn=0-8248-1005-8}}
 
-* E rai-c-a (1) na no-na (2) vale (3) na gone (4).
-* <small>3-sg.-sub.</small> see-<small>trans.</small>-<small>3-sg.-obj.</small> (1) the <small>3-sg.-poss.</small> (2) house (3) the child (4).
-* (The child sees his house.)  ==
+== Taudaku Isema ==
+{{InterWiki|code=fj}}
+* [http://www.omniglot.com/writing/fijian.htm Fijian language, alphabet and pronunciation] at Omniglot
+* [https://web.archive.org/web/20091027023635/http://geocities.com/fijidictionary/  Fijian–English / English–Fijian Dictionary]
+* [http://justus.anglican.org/resources/bcp/Fiji/index.html Na Soqoni Tabu: Na Veitarataravi Ni Noda Veiqaravi Kei Na Kalou] [[Anglican]] Holy Communion in Fijian
+* A [https://scholarspace.manoa.hawaii.edu/handle/10125/32627 collection of open access Fijian recordings] in [[Kaipuleohone]]. 
+* [[hdl:10125/32625|Index cards of plant and animal names, labeled 'Fiji [plants]']] archived with [[Kaipuleohone]] 
+* Materials on Fijian are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]]. 
+* [[Paradisec]] also holds an open access [http://catalog.paradisec.org.au/collections/DG4 collection of Fijian music] Fijian manuscripts in the [http://catalog.paradisec.org.au/collections/PAMBU Pacific Manuscripts Bureau collection],  
+* [http://catalog.paradisec.org.au/collections/GG1 George Grace's manuscript collection at the University of Hawai'i] includes Fijian
+
 [[Category:Viti]]
 [[Category:Vosa]]
