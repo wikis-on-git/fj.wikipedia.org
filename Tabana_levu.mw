@@ -1,13 +1,23 @@
-{| style="border:1px solid #ccc000;background-color:#FCFCFC;" |
-|- 
-|style="width:40%;text-align: center;font-size:20px"  |Na vosa vaka-Viti Wikipedia <br />
-The free Encyclopedia<br />
-<br />
-Eda sa [[Special:Statistics|{{NUMBEROFARTICLES}}]] Yavu.
-
-We have [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.
-|style="width:60%"|<div class="center">'''Index: &nbsp;&nbsp;'''[[Special:AllPages/0|0]] [[Special:AllPages/1|1]] [[Special:AllPages/2|2]] [[Special:AllPages/3|3]] [[Special:AllPages/4|4]] [[Special:AllPages/5|5]] [[Special:AllPages/6|6]] [[Special:AllPages/7|7]] [[Special:AllPages/8|8]] [[Special:AllPages/9|9]] [[Special:AllPages/A|A]] [[Special:AllPages/B|B]] [[Special:AllPages/C|C]] [[Special:AllPages/D|D]] [[Special:AllPages/E|E]] [[Special:AllPages/F|F]] [[Special:AllPages/G|G]] [[Special:AllPages/H|H]] [[Special:AllPages/I|I]] [[Special:AllPages/J|J]] [[Special:AllPages/K|K]] [[Special:AllPages/L|L]] [[Special:AllPages/M|M]] [[Special:AllPages/N|N]] [[Special:AllPages/O|O]] [[Special:AllPages/P|P]] [[Special:AllPages/Q|Q]] [[Special:AllPages/R|R]] [[Special:AllPages/S|S]] [[Special:AllPages/T|T]] [[Special:AllPages/U|U]] [[Special:AllPages/V|V]] [[Special:AllPages/W|W]] [[Special:AllPages/X|X]] [[Special:AllPages/Y|Y]] [[Special:AllPages/Z|Z]]</div>
-|}
+<div id="mp-topbanner" class="nomobile" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#F2F5FD; color:#000; white-space:nowrap;">
+<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
+<div style="margin:0.9em; width: 5em; text-align:center;">
+<div style="font-size:162%; padding:.1em;">Ni sa kidavaki ki na [[Wikipedia]],</div>
+<div style="font-size:95%;">na [[encyclopedia]] sega ni saumi ka rawa vua e dua me cau.</div>
+<div id="articlecount" style="font-size:85%;">Edemede [[Special:Statistics|{{NUMBEROFARTICLES}}]] itukutuku mai [[Na vosa vaka-Viti|Viti]]</div>
+</div>
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+<ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;">
+<li style="position:absolute; left:0; top:0;">[[Portal:Cakacaka ni Liga|Cakacaka ni Liga]]</li>
+<li style="position:absolute; left:0; top:1.6em;">[[Portal:iTukutuku ni Bula|iTukutuku ni Bula]]</li>
+<li style="position:absolute; left:0; top:3.2em;">[[Portal:Vanua ni Veivanua|Vanua ni Veivanua]]</li>
+<li style="position:absolute; left:33%; top:0;">[[Portal:iTukutuku Makawa|iTukutuku Makawa]]</li>
+<li style="position:absolute; left:33%; top:1.6em;">[[Portal:Fika|Fika]]</li>
+<li style="position:absolute; left:33%; top:3.2em;">[[Portal:Vakadidike|Vakadidike]]</li>
+<li style="position:absolute; left:66%; top:0;">[[Portal:iSoqosoqo|iSoqosoqo]]</li>
+<li style="position:absolute; left:66%; top:1.6em;">[[Portal:Tekinoloji|Tekinoloji]]</li>
+<li style="position:absolute; left:66%; top:3.2em;"><strong>[[Portal:Contents/Portals|Tikina taucoko]]</strong></li>
+</ul>
+</div>
 '''<big>Ni sa bula [[Wikipedia]]!</big>'''
 
 E tiko beka e dua eke ka rawa ni vosa vaka-Viti? Au kila ga vakalailai [[na vosa vaka-Viti]]... vei-vuke vola.
